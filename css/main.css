@@ -1,0 +1,31 @@
+* {
+  padding: 5px;
+}
+
+.header {
+  background-color: yellow;
+}
+
+.content {
+  background-color: green;
+}
+
+.list {
+  background-color: white;
+}
+
+.sidebar {
+  background-color: gray;
+}
+
+.footer {
+  background-color: blue;
+}
+
+p {
+  color:red;
+}
+
+.footer p {
+  color:white;
+}
